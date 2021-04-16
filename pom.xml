@@ -124,7 +124,7 @@
         <jimfs.version>1.1</jimfs.version>
         <testng.version>7.1.0</testng.version> <!-- TCK Tests -->
         <commons-lang.verson>2.3</commons-lang.verson>
-        <netty-open-ssl-version>2.0.34.Final</netty-open-ssl-version>
+        <netty-open-ssl-version>2.0.38.Final</netty-open-ssl-version>
         <dynamodb-local.version>1.11.477</dynamodb-local.version>
         <sqllite.version>1.0.392</sqllite.version>
 
